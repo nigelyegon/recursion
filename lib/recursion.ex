@@ -19,8 +19,6 @@ defmodule Recursion do
     ["phone", "laptop","sketchpad","markers","other stuff"]
   end
 
-  def  do
+  def loop([]), do: nil
 
   end
-
-end
